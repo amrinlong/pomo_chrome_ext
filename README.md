@@ -6,3 +6,5 @@
 
 ## How to Install
 ### Drag the folder onto chrome://extensions/
+
+#### April 2022
