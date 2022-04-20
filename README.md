@@ -8,15 +8,3 @@
 ### Drag the folder onto chrome://extensions/
 
 #### April 16, 2022
-
-##### Testing Format
-
-##### Testing 
-
-##### Testing Format
-
-##### Testing 
-
-##### Testing Format
-
-##### Testing 
