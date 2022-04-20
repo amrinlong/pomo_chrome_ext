@@ -14,12 +14,24 @@
                 <h1>Pomodoro Timer</h1>
             </div>
     
-            <div class="time">
-                <p>Test</p>
+            <div class="display">
+                <p>Display Live Timer Clock Here</p>
             </div>
 
-            <div class="button">
-                <p>Button</p>
+            <div class="worktime">
+                <p>Time to Work</p>
+                <input type="number" name="workmin" min="0"></input>
+            </div>
+
+            <div class="breaktime">
+                <p>Time to Break</p>
+                <input type="number" name="breakmin" min="0"></input>
+            </div>
+
+            <div>
+                <button id="start" class="button">Start</button>
+                <button id="pause" class="button">Pause</button>
+                <button id="reset" class="button">Reset</button>
             </div>
         </div>
         
