@@ -8,14 +8,15 @@ h1 {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-color: green;
 }
 
 #container {
     background-color: #555555;
-    align-content: center;
+    /* align-content: center; */
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
 }
 
 .title {
@@ -27,25 +28,23 @@ h1 {
     height: 200px;
     border-radius: 100px;
     background-color: blue;
+    text-align: center;
 }
 
 .worktime {
     background-color: red;
-    width: 80px;
-    height: 100px;
+    text-align: center;
 }
 
+
 .breaktime {
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    text-align: center;
 }
 
 .button {
-    align-self: center;
-    justify-self: center;
-
     width: 80px;
     height: 40px;
-
     font-size: 14px;
     font-weight: bold;
 }
